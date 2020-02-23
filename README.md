@@ -28,13 +28,13 @@ https://delf-test.slack.com/apps/A0F7XDUAZ-incoming-webhooks?next_id=0
 ## AWS Lambda 설정
 - 함수 생성
 
-![](./resource/1_createfun.png)
+![](./resource/1_createfun.PNG)
 
 - 코드 작성
   - 코드는 본 github 파일 참조
   - 조회 할 뉴스, 뉴스 기사 출력 포맷 제어 가능
 
-![](./resource/2_writecode.png)
+![](./resource/2_writecode.PNG)
   
 - 참고) 여기에서 Webhook URL 사용
   - 환경변수에서 등록 후
